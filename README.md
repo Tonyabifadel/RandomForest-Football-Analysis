@@ -22,7 +22,10 @@ Opponent code: Encoded value for the opposing team.
 Hour: Match start time (converted from string to integer).
 Day of the week: Encoded value for the day of the match.
 Rolling Averages: Averages of key statistics like goals, shots, and distances over the previous three matches.
-
+# Scraping.py 
+Scraping.py is used to scarp data from the football website 
+# Model.py
+Model.py will used the results saved in csv and feed them to the classifer
 # Model
 The RandomForestClassifier is used with the following hyperparameters:
 
